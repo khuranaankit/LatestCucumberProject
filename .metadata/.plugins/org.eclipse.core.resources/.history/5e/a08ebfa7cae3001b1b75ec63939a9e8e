@@ -1,0 +1,59 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>cucumber-jenkins</groupId>
+  <artifactId>cucumber-jenkins</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <properties>
+  <library.engine.version>1.0.0</library.engine.version>
+  <surefire.vesrion>3.0.0-M5</surefire.vesrion>
+  <karate.version>0.9.4</karate.version>
+  <java.version>1.8</java.version>
+  <type>maven-plugin</type>
+  <cucumber.version>4.7.2</cucumber.version>
+  </properties>
+  <dependencies>
+  <dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-java</artifactId>
+    <version>${cucumber.version}</version>
+</dependency>
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-junit</artifactId>
+    <version>${cucumber.version}</version>
+    <!-- <scope>test</scope>-->
+</dependency>
+<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>3.141.59</version>
+    <scope>compile</scope>
+</dependency>
+</dependencies>
+<build>
+
+		  <plugins>
+		  
+		  <plugin>
+		  <groupId>org.apache.maven.plugins</groupId>
+		    <artifactId>maven-compiler-plugin</artifactId>
+		    <version>3.8.1</version>
+		    <configuration>
+		    	<source>${java.version}</source>
+		    	<target>${java.vesrion}</target>
+		    </configuration>
+		  </plugin>
+		  <!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-surefire-plugin -->
+		  <plugin>
+		    <groupId>org.apache.maven.plugins</groupId>
+		    <artifactId>maven-surefire-plugin</artifactId>
+		    <version>${surefire.vesrion}</version>
+		    <configuration>
+              <testSourceDirectory>src/test/java</testSourceDirectory>
+                <includes>CucumberRunner.java</includes>
+              </configuration>
+		  </plugin>
+		    </plugins>
+		    
+    </build>
+</project>

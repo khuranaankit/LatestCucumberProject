@@ -1,0 +1,71 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.acn.ntc</groupId>
+  <artifactId>library-selenium</artifactId>
+  <version>1.0.0</version>
+  
+  <properties>
+  <library.common.version>1.0.0</library.common.version>
+  <selenium.version>3.141.59</selenium.version>
+  <ashot.version>1.5.4</ashot.version>
+  <log4j-slf4j-impl.version>2.13.3</log4j-slf4j-impl.version>
+  <json.version>20210307</json.version>
+  <java.version>1.8</java.version>
+  <scope>compile</scope>
+  </properties>
+  
+  
+  <dependencies>
+  
+ <dependency>
+    <groupId>com.acn.ntc</groupId>
+    <artifactId>library-common</artifactId>
+    <version>${library.common.version}</version>
+</dependency>
+<!-- <dependency>
+    <groupId>org.json</groupId>
+    <artifactId>json</artifactId>
+    <version>${json.version}</version>
+    <scope>compile</scope>
+</dependency> -->
+ <dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>${selenium.version}</version>
+    <scope>compile</scope>
+</dependency>
+<dependency>
+    <groupId>ru.yandex.qatools.ashot</groupId>
+    <artifactId>ashot</artifactId>
+    <version>${ashot.version}</version>
+    <scope>compile</scope>
+</dependency>
+<dependency>
+    <groupId>org.apache.logging.log4j</groupId>
+    <artifactId>log4j-slf4j-impl</artifactId>
+    <version>${log4j-slf4j-impl.version}</version>
+    <scope>test</scope>
+</dependency>
+  </dependencies>
+<build>
+<finalName>${project.artifactId}</finalName>
+  <plugins>
+  
+  <plugin>
+  <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-compiler-plugin</artifactId>
+    <version>3.8.1</version>
+    <configuration>
+    	<source>${java.version}</source>
+    	<target>${java.vesrion}</target>
+    </configuration>
+  </plugin>
+  <!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-surefire-plugin -->
+<plugin>
+    <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-surefire-plugin</artifactId>
+    <version>3.0.0-M5</version>
+</plugin>
+    </plugins>
+    </build>
+</project>

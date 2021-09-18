@@ -1,0 +1,9 @@
+package automation.library.web.steps;
+
+public class BaseStepsWebClick {
+	
+	public static void clickElement(String object){
+		System.out.println("User Clicked button with xPAth" + xPAth);
+	}
+
+}

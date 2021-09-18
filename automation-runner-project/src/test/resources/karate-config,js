@@ -1,0 +1,10 @@
+function() {
+
+	var config = {};
+	
+	if(typeof env == 'undefined'){
+	env = 'DEV3';
+	karate.log('Defaulting env');
+	}
+	return config;
+}

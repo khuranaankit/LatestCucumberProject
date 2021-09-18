@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25658" started-at="2021-07-19T07:26:33Z" finished-at="2021-07-19T07:26:59Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="BaseTestEngine.scenario(io.cucumber.testng.PickleEventWrapper, io.cucumber.testng.CucumberFeatureWrapper)[pri:0, instance:runner.webClickTest@43814d18]" name="scenario" class="automation.library.engine.BaseTestEngine"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Default test" duration-ms="25658" started-at="2021-07-19T07:26:33Z" finished-at="2021-07-19T07:26:59Z">
+      <class name="runner.webClickTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:runner.webClickTest@43814d18]" name="setUp" is-config="true" duration-ms="280" started-at="2021-07-19T12:56:33Z" finished-at="2021-07-19T12:56:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleEventWrapper, io.cucumber.testng.CucumberFeatureWrapper)[pri:0, instance:runner.webClickTest@43814d18]" name="scenario" duration-ms="25118" started-at="2021-07-19T12:56:34Z" description=" Run Cucumber Feature" data-provider="features" finished-at="2021-07-19T12:56:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Web_Click_Test_Scenario"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Return_Weather_Details"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:runner.webClickTest@43814d18]" name="tearDown" is-config="true" duration-ms="3" started-at="2021-07-19T12:56:59Z" finished-at="2021-07-19T12:56:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- runner.webClickTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

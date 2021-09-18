@@ -1,0 +1,22 @@
+package com.test.cucumber;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.PageFactory;
+
+import com.driver.manager.DriverManager;
+import com.pageObjects.PageObjects;
+
+import io.cucumber.java.Before;
+
+public class testStepDefinition {
+	String URL;
+	WebDriver driver;
+	@Before
+	public void setUp() {
+		URL="http://demowebshop.tricentis.com";
+		driver= DriverManager.getDriver();
+		PageObjects po = new PageObjects();
+		PageFactory.initElements(driver, PageObjects.class);
+	}
+
+}

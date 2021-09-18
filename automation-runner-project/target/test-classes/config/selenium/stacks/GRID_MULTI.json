@@ -1,0 +1,7 @@
+[
+	{
+		"seleniumServer": "Local",
+		"browserName": "chrome",
+		"platform": "Linux"
+	}
+]

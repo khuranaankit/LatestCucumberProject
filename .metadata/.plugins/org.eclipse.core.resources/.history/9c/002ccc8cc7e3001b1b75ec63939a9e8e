@@ -1,0 +1,16 @@
+package com.test.cucumber;
+
+import org.openqa.selenium.WebDriver;
+
+import io.cucumber.java.Before;
+
+public class testStepDefinition {
+	String URL;
+	WebDriver driver;
+	@Before
+	public void setUp() {
+		URL="http://demowebshop.tricentis.com";
+		//driver=
+	}
+
+}

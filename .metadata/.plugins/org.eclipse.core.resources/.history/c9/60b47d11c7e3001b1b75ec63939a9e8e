@@ -1,0 +1,8 @@
+package com.pageObjects;
+
+public class PageObjects {
+	
+	@FindBy(xpath="//a[@href='/login']")
+	public static WebElement loginLink;
+
+}

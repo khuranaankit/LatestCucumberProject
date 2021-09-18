@@ -1,0 +1,10 @@
+[
+	{
+		"seleniumServer":"Local",
+		"browserName":"chrome"
+	},
+	{
+		"seleniumServer":"Local",
+		"browserName":"internet explorer"
+	}
+]

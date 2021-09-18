@@ -1,0 +1,15 @@
+package pageobjects;
+
+import automation.library.engine.core.objectmatcher.CommonPageObject;
+
+public class HomePage extends CommonPageObject{
+	
+	private String signUpLink= "//input[@name='username']";
+	
+	public String userNameTextBox()
+	{ 
+		return signUpLink;
+	}
+	
+	
+}

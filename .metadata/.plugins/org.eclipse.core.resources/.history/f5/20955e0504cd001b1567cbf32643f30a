@@ -1,0 +1,21 @@
+package automation.library.api;
+
+import java.util.HashMap;
+import java.util.Map;
+
+import org.junit.runner.RunWith;
+
+import com.intuit.karate.Runner;
+import com.intuit.karate.junit4.Karate;
+
+import cucumber.api.CucumberOptions;
+
+public class BaseAPISteps {
+	
+	public static void callAPIWithoutTag(String pathTofeatureFile, HashMap args)
+	{
+		Map<String, Object> result = Runner.runFeature(pathTofeatureFile, args, true);
+		
+		
+	}
+}

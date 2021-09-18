@@ -1,0 +1,12 @@
+package com.test.cucumber;
+
+public class testStepDefinition {
+	String URL;
+	WebDriver driver;
+	@Before
+	public void setUp() {
+		URL="http://demowebshop.tricentis.com";
+		
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Hook.java&apos; to &apos;automation-library-common/src/main/java/automation.library.common&apos;&#x0D;&#x0A;- Original project: &apos;automation-library-engine&apos;&#x0D;&#x0A;- Destination element: &apos;automation-library-common/src/main/java/automation.library.common&apos;&#x0D;&#x0A;- Original element: &apos;automation.library.engine.cucumber.core.Hook.java&apos;" description="Copy compilation unit" destination="=automation-library-common/src\/main\/java&lt;automation.library.common" element1="/src\/main\/java&lt;automation.library.engine.cucumber.core{Hook.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1624978600923" units="1" version="1.0"/>
+</session>

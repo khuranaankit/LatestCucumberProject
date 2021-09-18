@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+19:26:06.584 skipping bootstrap configuration: could not find or read file: classpath:karate-config.js
+=======
+17:18:24.817 skipping bootstrap configuration: could not find or read file: classpath:karate-config.js
+>>>>>>> 25c57bbe8748e2a7546bae5c4a0df3442749372b
