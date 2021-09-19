@@ -2,19 +2,19 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Surefire suite" duration-ms="13724" started-at="2021-09-19T14:56:37Z" finished-at="2021-09-19T14:56:51Z">
+  <suite name="Surefire suite" duration-ms="22410" started-at="2021-09-19T15:51:39Z" finished-at="2021-09-19T15:52:02Z">
     <groups>
       <group name="cucumber">
         <method signature="BaseTestEngine.scenario(io.cucumber.testng.PickleEventWrapper, io.cucumber.testng.CucumberFeatureWrapper)[pri:0, instance:runner.webClickTest@6e1567f1]" name="scenario" class="automation.library.engine.BaseTestEngine"/>
       </group> <!-- cucumber -->
     </groups>
-    <test name="Surefire test" duration-ms="13724" started-at="2021-09-19T14:56:37Z" finished-at="2021-09-19T14:56:51Z">
+    <test name="Surefire test" duration-ms="22410" started-at="2021-09-19T15:51:39Z" finished-at="2021-09-19T15:52:02Z">
       <class name="runner.webClickTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:runner.webClickTest@6e1567f1]" name="setUp" is-config="true" duration-ms="156" started-at="2021-09-19T20:26:37Z" finished-at="2021-09-19T20:26:37Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:runner.webClickTest@6e1567f1]" name="setUp" is-config="true" duration-ms="240" started-at="2021-09-19T21:21:39Z" finished-at="2021-09-19T21:21:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleEventWrapper, io.cucumber.testng.CucumberFeatureWrapper)[pri:0, instance:runner.webClickTest@6e1567f1]" name="scenario" duration-ms="13521" started-at="2021-09-19T20:26:37Z" description=" Run Cucumber Feature" data-provider="features" finished-at="2021-09-19T20:26:51Z">
+        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleEventWrapper, io.cucumber.testng.CucumberFeatureWrapper)[pri:0, instance:runner.webClickTest@6e1567f1]" name="scenario" duration-ms="22092" started-at="2021-09-19T21:21:39Z" description=" Run Cucumber Feature" data-provider="features" finished-at="2021-09-19T21:22:02Z">
           <params>
             <param index="0">
               <value>
@@ -30,7 +30,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- scenario -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:runner.webClickTest@6e1567f1]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-09-19T20:26:51Z" finished-at="2021-09-19T20:26:51Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:runner.webClickTest@6e1567f1]" name="tearDown" is-config="true" duration-ms="4" started-at="2021-09-19T21:22:02Z" finished-at="2021-09-19T21:22:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

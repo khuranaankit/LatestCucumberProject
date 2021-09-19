@@ -14,7 +14,7 @@ public class ChromeDriverManager extends DriverManager{
 
 	@Override
 	protected void createDriver() {
-		System.setProperty("webdriver.chrome.driver", "C:\\Users\\HP\\Desktop\\Selenium-Framework\\library-selenium\\webDrivers\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "library-selenium\\webDrivers\\chromedriver.exe");
 		
 		ChromeOptions options = new ChromeOptions();
 		//options.addArguments("incognito");
