@@ -5,43 +5,113 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15099aa4-c73e-421e-aa70-c123f236d79d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CucmberProject-master.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/automation-library-api/library-api.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/automation-library-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/automation-library-api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/automation-library-api/target/library-api.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/automation-library-api/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/automation-library-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/automation-library-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/automation-library-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/automation-library-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/automation-library-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/automation-library-common/library-common.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/automation-library-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/automation-library-common/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/automation-library-common/target/library-common.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/automation-library-common/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/automation-library-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/automation-library-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/automation-library-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/automation-library-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/automation-library-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/automation-library-engine/library-engine.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/automation-library-engine/src/main/java/automation/library/engine/cucumber/core/Hook.java" beforeDir="false" afterPath="$PROJECT_DIR$/automation-library-engine/src/main/java/automation/library/engine/cucumber/core/Hook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/automation-library-engine/target/classes/automation/library/engine/cucumber/core/Hook.class" beforeDir="false" afterPath="$PROJECT_DIR$/automation-library-engine/target/classes/automation/library/engine/cucumber/core/Hook.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/automation-library-selenium/library-selenium.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/automation-library-selenium/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/automation-library-selenium/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/automation-library-selenium/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/automation-library-selenium/target/classes/META-INF/maven/com.acn.ntc/library-selenium/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/automation-library-selenium/target/classes/META-INF/maven/com.acn.ntc/library-selenium/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/automation-runner-project/runner-automation-project.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/automation-runner-project/src/test/resources/features/retrieveWeatherInformation.feature" beforeDir="false" afterPath="$PROJECT_DIR$/automation-runner-project/src/test/resources/features/retrieveWeatherInformation.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/classes/AllAnagramsOfSecondStringInFirstStringUsingSlidingWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/automation-runner-project/target/classes/AllAnagramsOfSecondStringInFirstStringUsingSlidingWindow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/classes/findingSecondMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/automation-runner-project/target/classes/findingSecondMax.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/test-classes/features/retrieveWeatherInformation.feature" beforeDir="false" afterPath="$PROJECT_DIR$/automation-runner-project/target/test-classes/features/retrieveWeatherInformation.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cucumber-jenkins/cucumber-jenkins.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cucumber-jenkins/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cucumber-jenkins/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-selenium/library-selenium (1).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-selenium/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library-selenium/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-selenium/src/main/java/automation/library/selenium/exec/driver/factory/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/library-selenium/src/main/java/automation/library/selenium/exec/driver/factory/DriverFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-selenium/target/classes/automation/library/selenium/exec/driver/factory/DriverFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/library-selenium/target/classes/automation/library/selenium/exec/driver/factory/DriverFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-selenium/target/classes/automation/library/selenium/exec/driver/managers/ChromeDriverManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/library-selenium/target/classes/automation/library/selenium/exec/driver/managers/ChromeDriverManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-library-engine/src/main/java/automation/library/engine/web/steps/AutoEngWebObjectsClick.java" beforeDir="false" afterPath="$PROJECT_DIR$/automation-library-engine/src/main/java/automation/library/engine/web/steps/AutoEngWebObjectsClick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-library-engine/target/library-engine.jar" beforeDir="false" afterPath="$PROJECT_DIR$/automation-library-engine/target/library-engine.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-library-engine/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/automation-library-engine/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-library-engine/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/automation-library-engine/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-library-engine/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/automation-library-engine/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-library-engine/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/automation-runner-project/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/automation-runner-project/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/automation-runner-project/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/automation-runner-project/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/automation-runner-project/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/automation-runner-project/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/runner-automation-project-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/automation-runner-project/target/runner-automation-project-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/screenshot/Web_Click_Test_Scenario_random.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/screenshotrandom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/Surefire suite/Surefire test.html" beforeDir="false" afterPath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/Surefire suite/Surefire test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/Surefire suite/Surefire test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/Surefire suite/Surefire test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/Surefire suite/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/TEST-runner.APIFeatureTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/TEST-runner.CucumberFeatureTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/TEST-runner.webClickTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/TEST-runner.webClickTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/TestSuite.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/apiObjects.services.countryWeather-1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/features.countryWeather-1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/features.countryWeather.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/features.retrieveWeatherInformation-1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/features.retrieveWeatherInformation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/features.webClickTest-1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/features.webClickTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/junitreports/TEST-runner.webClickTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/junitreports/TEST-runner.webClickTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/old/Surefire suite/groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/old/Surefire suite/groups.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/old/Surefire suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/old/Surefire suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/old/Surefire suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/old/Surefire suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/old/Surefire suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/old/Surefire suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/runner.APIFeatureTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/runner.CucumberFeatureTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/runner.webClickTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/runner.webClickTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/services.store.storeAttributeWithParent-1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-junit-results/Surefire suite/Surefire test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-junit-results/Surefire suite/Surefire test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-junit-results/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-junit-results/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-junit-results/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-junit-results/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-junit-results/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-junit-results/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-junit-results/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-junit-results/old/Surefire suite/Surefire test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-junit-results/old/Surefire suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-junit-results/old/Surefire suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-junit-results/old/Surefire suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-junit-results/old/Surefire suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-junit-results/old/Surefire suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-junit-results/old/Surefire suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-junit-results/old/Surefire suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-junit-results/old/Surefire suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-junit-results/old/Surefire suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-junit-results/old/Surefire suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-junit-results/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-junit-results/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-junit-results/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-junit-results/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-junit-results/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-junit-results/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-junit-results/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-native-results/Surefire suite/Surefire test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-native-results/Surefire suite/Surefire test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-native-results/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-native-results/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-native-results/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-native-results/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-native-results/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-native-results/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-native-results/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-native-results/old/Surefire suite/Surefire test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-native-results/old/Surefire suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-native-results/old/Surefire suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-native-results/old/Surefire suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-native-results/old/Surefire suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-native-results/old/Surefire suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-native-results/old/Surefire suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-native-results/old/Surefire suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-native-results/old/Surefire suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-native-results/old/Surefire suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-native-results/old/Surefire suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-native-results/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-native-results/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-native-results/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-native-results/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-native-results/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-native-results/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-native-results/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng.css" beforeDir="false" afterPath="$PROJECT_DIR$/automation-runner-project/target/surefire-reports/testng.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-selenium/src/main/java/automation/library/web/steps/BaseStepsWebClick.java" beforeDir="false" afterPath="$PROJECT_DIR$/library-selenium/src/main/java/automation/library/web/steps/BaseStepsWebClick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-selenium/target/library-selenium.jar" beforeDir="false" afterPath="$PROJECT_DIR$/library-selenium/target/library-selenium.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-selenium/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/library-selenium/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-selenium/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/library-selenium/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-selenium/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/library-selenium/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-selenium/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

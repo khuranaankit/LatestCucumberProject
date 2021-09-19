@@ -9,8 +9,9 @@ public class BaseStepsWebClick {
 	
 	private static WebElement eleToClick;
 
-	public static void clickElement(String object){
+	public static void clickElement(String object) throws InterruptedException {
 		eleToClick = DriverContext.getInstance().getDriver().findElement(By.xpath(object));
+		Thread.sleep(5000);
 		eleToClick.click();
 	}
 

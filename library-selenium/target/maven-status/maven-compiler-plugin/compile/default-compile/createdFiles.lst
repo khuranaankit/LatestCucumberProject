@@ -1,0 +1,7 @@
+automation\library\selenium\core\Hook.class
+automation\library\web\steps\BaseStepsWebClick.class
+automation\library\selenium\exec\driver\factory\DriverContext.class
+automation\library\selenium\exec\driver\factory\DriverFactory.class
+automation\library\selenium\exec\driver\factory\DriverManager.class
+automation\library\selenium\core\Screenshot.class
+automation\library\selenium\exec\driver\managers\ChromeDriverManager.class

@@ -10,12 +10,10 @@ public class AutoEngWebObjectsClick extends BaseStepsWebClick{
 
 		
 	@When("^the user clicks the \"([^\"]*)\" element at the \"([^\"]*)\" page$")
-	public void theUserClicksTheElementAtThePage(String objectName, String pageObj) throws IllegalAccessException, IllegalArgumentException, InvocationTargetException, ClassNotFoundException, InstantiationException, NoSuchMethodException, SecurityException{
+	public void theUserClicksTheElementAtThePage(String objectName, String pageObj) throws IllegalAccessException, IllegalArgumentException, InvocationTargetException, ClassNotFoundException, InstantiationException, NoSuchMethodException, SecurityException, InterruptedException {
 	    String xPath = ObjectFinder.getObject(objectName, pageObj);
 	    clickElement(xPath);
-	    
-	    
-	    
+
 	}
 	
 }
