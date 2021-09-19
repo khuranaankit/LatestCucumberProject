@@ -18,10 +18,8 @@ import automation.library.selenium.exec.driver.factory.DriverContext;
 import io.cucumber.core.api.Scenario;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
-<<<<<<< HEAD
 import org.testng.annotations.Parameters;
-=======
->>>>>>> 25c57bbe8748e2a7546bae5c4a0df3442749372b
+
 
 import static automation.library.selenium.core.Screenshot.grabScreenShot;
 
@@ -41,13 +39,10 @@ public class Hook {
 	//take screenshot of automation library core if possible
 	//take screenshot of each folder structure.
 	//Comparable VS Comparator
-<<<<<<< HEAD
 	//Browser stack
 	//Jenkins
 	//git commands
 	//complexity
-=======
->>>>>>> 25c57bbe8748e2a7546bae5c4a0df3442749372b
 	
 		//first techStack
 		@Before(order = 1)

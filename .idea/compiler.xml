@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cucumber-jenkins" />
+        <module name="library-selenium (1)" />
+        <module name="runner-automation-project" />
+        <module name="library-common" />
+        <module name="library-engine" />
+        <module name="library-selenium" />
+        <module name="library-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CucmberProject-master" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
