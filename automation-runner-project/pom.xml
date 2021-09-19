@@ -48,11 +48,7 @@
 		    <version>3.8.1</version>
 		    <configuration>
 		    	<source>${java.version}</source>
-<<<<<<< HEAD
 		    	<target>${java.version}</target>
-=======
-		    	<target>${java.vesrion}</target>
->>>>>>> 25c57bbe8748e2a7546bae5c4a0df3442749372b
 		    </configuration>
 		  </plugin>
 		  <!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-surefire-plugin -->

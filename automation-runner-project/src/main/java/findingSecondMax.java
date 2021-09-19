@@ -23,6 +23,5 @@ public class findingSecondMax {
         else{
             System.out.println("Second Largest: " + secondLargest);
         }
-
     }
 }
